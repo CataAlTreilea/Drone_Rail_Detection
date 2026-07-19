@@ -12,7 +12,7 @@ This project was made by:
 - [CataAlTreilea](https://github.com/CataAlTreilea)
 - [VStefanTab](https://github.com/VStefanTab)
 - [Balaciu9](https://github.com/Balaciu9)
-- [sebastiankalciov](https://github.com/sebastiankalciov))
+- [sebastiankalciov](https://github.com/sebastiankalciov)
 
 
 
